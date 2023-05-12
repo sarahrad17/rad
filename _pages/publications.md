@@ -25,9 +25,3 @@ author_profile: true
   <br>
   *Co-first authors
 </p>
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-
