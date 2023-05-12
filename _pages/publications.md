@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- <h2> ahhhhh oh no!!! </h2>
- -->
-
 <h2 class="has-text-align-left">Papers</h2>
 
 <p class="has-normal-font-size">
@@ -25,3 +22,25 @@ author_profile: true
   <br>
   *Co-first authors
 </p>
+
+<p>
+  Blessing, J., Drean, J., &amp; Radway, S. 
+  <a href="https://sciencepolicyreview.org/wp-content/uploads/securepdfs/2022/08/MITSPR-v3-191618003018.pdf">Survey and analysis of U.S. policies to address ransomware</a>
+  .&nbsp;
+  <em>MIT Science Policy Review&nbsp;3</em>
+  , 38-46 (2022).&nbsp;https://doi.org/10.38105/spr.iyuyqypkzm.
+  <br>
+  *Co-first authors
+</p>
+
+<p>
+  Radway, Sarah.&nbsp;&#8220;
+  <a href="https://academiccommons.columbia.edu/doi/10.7916/d8-r9ad-5071">Predictive Privacy: Modeling Privacy Harms</a>
+  .&#8221; Diss. Columbia University, 2021.
+</p>
+
+<h2 class="has-text-align-left">Talks</h2>
+
+
+
+<h2 class="has-text-align-left">Posters</h2>
