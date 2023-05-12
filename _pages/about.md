@@ -8,5 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+hi!
+
 ======
-Hi! My name is Sarah Radway.
+
+hi.
+
+======
+
+hi;
