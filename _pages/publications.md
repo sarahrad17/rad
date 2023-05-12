@@ -13,8 +13,10 @@ author_profile: true
 
 <h2> ahhhhh oh no!!! </h2>
 
+
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include base_path %} 
 {% endfor %}
 
 
