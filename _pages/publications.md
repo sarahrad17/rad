@@ -19,8 +19,7 @@ author_profile: true
 
 <p>
   Blessing, J., Drean, J., &amp; Radway, S. 
-  <a href="https://sciencepolicyreview.org/wp-content/uploads/securepdfs/2022/08/MITSPR-v3-191618003018.pdf">Survey and analysis of U.S. policies to address ransomware</a>
-  .&nbsp;
+  <a href="https://sciencepolicyreview.org/wp-content/uploads/securepdfs/2022/08/MITSPR-v3-191618003018.pdf">Survey and analysis of U.S. policies to address ransomware</a>&nbsp;
   <em>MIT Science Policy Review&nbsp;3</em>
   , 38-46 (2022).&nbsp;https://doi.org/10.38105/spr.iyuyqypkzm.
   <br>
@@ -42,7 +41,7 @@ author_profile: true
   .&#8221; The National Academies CNSTAT 2020 Census Data Products Workshop. June 2022. Washington, DC.
 </p>
 
-<p>
+<!-- <p>
   Christ, Miranda*, Sarah Radway*, and Steven M. Bellovin. &#8220;
   <a href="https://www.youtube.com/watch?v=Ek_nT0Hj390">Differential Privacy and Swapping: Examining De-Identification&#8217;s Impact on Minority Representation and Privacy Preservation in the US Census</a>
   .&#8221;&nbsp;
@@ -50,7 +49,7 @@ author_profile: true
   . IEEE Computer Society, 2022.
   <br>
   *Co-first authors 
-</p>
+</p> -->
 
 <p>Radway, Sarah. &#8220;Global Internet Infrastructure&#8221;. Tech @ Fletcher. May 2022. </p>
 
