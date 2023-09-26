@@ -20,7 +20,6 @@
 
 <title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 
-<meta name="google-site-verification" content="B8Ff9tP0K_3nnu66NnZCyZ7G03TA271XsCHOTKTPDOg" />
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -126,9 +125,7 @@
   </script>
 {% endif %}
 
-{% if site.google_site_verification %}
-  <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
-{% endif %}
+<meta name="google-site-verification" content="B8Ff9tP0K_3nnu66NnZCyZ7G03TA271XsCHOTKTPDOg" />
 {% if site.bing_site_verification %}
   <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
 {% endif %}
