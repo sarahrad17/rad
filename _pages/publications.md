@@ -65,6 +65,24 @@ author_profile: true
 <h2 class="has-text-align-left">Posters</h2>
 
 <p>
+ Radway, Sarah, Miranda Christ, and Steven M. Bellovin. &#8220;
+  <a href="https://arxiv.org/abs/2308.12876">The Impact of De-Identification on Single-Year-of-Age Counts in the US Census</a>
+  .&#8221; Theory and Practice of Differential Privacy 2023. September 2023. Boston, MA. 
+</p>
+
+<p>
+  Radway, Sarah, and Dan Votipka. &#8220;
+  <a href="https://www.usenix.org/system/files/soups2023-poster14_radway_abstract_final.pdf">Identifying New Challenges In The Oculus Permissions Framework</a>
+  .&#8221; SOUPS 2023. August 2023. Anaheim, CA. 
+</p>
+
+<p>
+  Quintanilla, Katherine, Sarah Radway, and Dan Votipka. &#8220;
+  <a href="https://www.usenix.org/system/files/soups2023-poster124_radway_abstract_final.pdf">Fixing FERPA: A Survey of Current Student Directory Sharing Practices at U.S. Universities</a>
+  .&#8221; SOUPS 2023. August 2023. Anaheim, CA. 
+</p>
+
+<p>
   Christ, Miranda, Sarah Radway, and Steven M. Bellovin. &#8220;
   <a href="https://tpdp.journalprivacyconfidentiality.org/2022/">Differential Privacy and Swapping: Examining De-Identification&#8217;s Impact on Minority Representation and Privacy Preservation in the US Census</a>
   .&#8221; Theory and Practice of Differential Privacy 2022. July 2022. Baltimore, MD. 
