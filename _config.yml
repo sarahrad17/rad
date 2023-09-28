@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sarah Radway ⧹(⦁ᴗ⦁)⧸"
 title_separator          : "-"
-name                     : &name "Sarah Radway ⧹(⦁ᴗ⦁)⧸"
+name                     : &name "Sarah Radway⧹(⦁ᴗ⦁)⧸"
 description              : &description "PhD Student in Computer Science & Public Policy"
 url                      : https://sarahrad17.github.io/rad # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sarah Radway  ⧹(⦁ᴗ⦁)⧸"
+  name             : "Sarah Radway ⧹(⦁ᴗ⦁)⧸"
   avatar           : "profilepic.png"
   bio              : "PhD Student, Computer Science"
   location         : 
