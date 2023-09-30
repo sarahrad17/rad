@@ -30,10 +30,10 @@ author_profile: true
     <li>
         Computing Research Association, 
         <a href="https://cra.org/cra-wp/grad-cohort-for-women/">Grad Cohort Workshop for Women</a>
-        ; Fully Funded Attendee
+        ; Selected As Funded Attendee
     </li>
     <li> 
-        Heidelberg Laureate Forum; Selected As Student Attendee
+        Heidelberg Laureate Forum; Selected As Funded Student Attendee
     </li>
 </ul>
 
