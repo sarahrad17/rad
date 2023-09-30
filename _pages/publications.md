@@ -70,7 +70,7 @@ author_profile: true
 </p>
 
 <p>
-  Radway, Sarah, and Dan Votipka. &#8220;
+  Radway, Sarah and Dan Votipka. &#8220;
   <a href="https://www.usenix.org/system/files/soups2023-poster14_radway_abstract_final.pdf">Identifying New Challenges In The Oculus Permissions Framework</a>
   .&#8221; SOUPS 2023. August 2023. Anaheim, CA. 
 </p>
