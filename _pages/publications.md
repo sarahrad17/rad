@@ -64,7 +64,7 @@ author_profile: true
 <h2 class="has-text-align-left">Posters</h2>
 
 <p>
- Radway, Sarah, Miranda Christ, and Steven M. Bellovin. &#8220;
+ Radway, Sarah and Miranda Christ. &#8220;
   <a href="https://arxiv.org/abs/2308.12876">The Impact of De-Identification on Single-Year-of-Age Counts in the US Census</a>
   .&#8221; Theory and Practice of Differential Privacy 2023. September 2023. Boston, MA. 
 </p>
