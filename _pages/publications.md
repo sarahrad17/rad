@@ -72,13 +72,13 @@ author_profile: true
 <p>
   Radway, Sarah and Dan Votipka. &#8220;
   <a href="https://www.usenix.org/system/files/soups2023-poster14_radway_abstract_final.pdf">Identifying New Challenges In The Oculus Permissions Framework</a>
-  .&#8221; SOUPS 2023. August 2023. Anaheim, CA. 
+  .&#8221; Symposium on Usable Privacy and Security 2023. August 2023. Anaheim, CA. 
 </p>
 
 <p>
   Quintanilla, Katherine, Sarah Radway, and Dan Votipka. &#8220;
   <a href="https://www.usenix.org/system/files/soups2023-poster124_radway_abstract_final.pdf">Fixing FERPA: A Survey of Current Student Directory Sharing Practices at U.S. Universities</a>
-  .&#8221; SOUPS 2023. August 2023. Anaheim, CA. 
+  .&#8221; Symposium on Usable Privacy and Security 2023. August 2023. Anaheim, CA. 
 </p>
 
 <p>
