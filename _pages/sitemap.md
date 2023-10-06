@@ -15,7 +15,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 
 
-{% capture written_label %}'None'{% endcapture %}
+<!-- {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
 {% unless collection.output == false or collection.label == "posts" %}
@@ -30,4 +30,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
